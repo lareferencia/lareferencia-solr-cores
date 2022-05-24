@@ -2,7 +2,6 @@
 <!-- Solr managed schema - automatically generated - DO NOT EDIT -->
 <schema name="example-data-driven-schema" version="1.6">
   <uniqueKey>id</uniqueKey>
-  <solrQueryParser defaultOperator="AND"/>
   <fieldType name="ancestor_path" class="solr.TextField">
     <analyzer type="index">
       <tokenizer class="solr.KeywordTokenizerFactory"/>

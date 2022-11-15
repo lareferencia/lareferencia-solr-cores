@@ -419,6 +419,7 @@
   <field name="description.en" type="string"/>
   <field name="description.pt" type="string"/>
   <field name="directory.url" type="string"/>
+  <field name="indexar.url" type="string"/>
   <field name="driver" type="boolean"/>
   <field name="email" type="string"/>
   <field name="isni" type="string"/>
